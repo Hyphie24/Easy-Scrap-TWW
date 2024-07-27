@@ -1,0 +1,4 @@
+<Bindings>
+ <Binding name="CLICK EasyScrap_ScrapKeybindFrame:LeftButton" header="EASYSCRAPHEAD" category="ADDONS"></Binding>
+<!-- <Binding name="CLICK EasyScrap_ScrapKeybindFrame:LeftButton 1" header="EASYSCRAPHEAD" category="ADDONS"></Binding>-->
+</Bindings>
